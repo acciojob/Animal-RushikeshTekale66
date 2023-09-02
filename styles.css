@@ -1,5 +1,11 @@
 /*  your css code here. If applicable */
 #animal-photos{
-	display:inline;
+/* 	display:inline; */
 	text-align:center;
+	background-color:pink;
+}
+.animal{
+	border-radius:10px;
+	width:30%;
+	margin:2px;
 }
